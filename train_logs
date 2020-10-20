@@ -1,0 +1,16 @@
+full ms-pacman run:
+
+full lunarLander run:
+ seed=1:
+    /git/py.code/hw3/homework_fall2020/hw3/cs285/scripts/../data/hw3_q2_dqn_1_LunarLander-v3_20-10-2020_16-23-20
+ other:
+     /git/py.code/hw3/homework_fall2020/hw3/cs285/scripts/../data/hw3_q2_dqn_3_LunarLander-v3_20-10-2020_16-47-30
+ /git/py.code/hw3/homework_fall2020/hw3/cs285/scripts/../data/hw3_q2_dqn_2_LunarLander-v3_20-10-2020_16-47-42
+
+
+tmp note(afternoon..dinner):
+    q2_seed1(hw3) and pacman(both hw3 and hw3_debug) are sure to use latest(seemingly correct) DQN code
+    q2_seed2,3(hw3) not sure, but their train_average_return went down
+          /git/py.code/hw3/homework_fall2020/hw3/cs285/scripts/../data/hw3_q2_dqn_2_LunarLander-v3_20-10-2020_17-23-12
+          /git/py.code/hw3/homework_fall2020/hw3/cs285/scripts/../data/hw3_q2_dqn_3_LunarLander-v3_20-10-2020_17-23-47
+    q2_seed2 run another time:
